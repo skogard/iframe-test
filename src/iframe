@@ -1,0 +1,11 @@
+---
+permalink: iframe
+title: Iframe
+description: Let's try embedding iframe!
+image: null
+updated: 1612645664110
+draft: false
+---
+Let's try embedding iframe!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8k4UzJnH504" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
